@@ -1,0 +1,14 @@
+export const InputOnFocus = "InputOnFocus";
+export const InputOnBlur = "InputOnBlur";
+export const ClickAll = "ClickAll";
+export const ChangeTypeText = "changeTypeText";
+export const ChangeOrder = "changeOrder";
+export const DelTodo = "DelTodo";
+export const EditTodo = "editTodo";
+export const SaveEdit = "saveEdit";
+export const SearchItem = "searchItem";
+export const HandelOnClick = "handelOnClick";
+export const CancelEdit = "cancelEdit";
+export const ClickProcessing = "clickProcessing";
+export const ClickDone = "clickDone";
+export const AddTodo = "addTodo"
